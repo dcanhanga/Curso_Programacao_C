@@ -1,5 +1,5 @@
 {
-	"cSpell.words": ["scanf"],
+	"cSpell.words": ["getchar", "scanf"],
 	"files.associations": {
 		"stdio.h": "c"
 	}
