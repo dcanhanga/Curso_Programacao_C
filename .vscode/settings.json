@@ -1,3 +1,6 @@
 {
-	"cSpell.words": ["scanf"]
+	"cSpell.words": ["scanf"],
+	"files.associations": {
+		"stdio.h": "c"
+	}
 }
